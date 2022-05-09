@@ -1,2 +1,2 @@
 # JS-BASICS
-Res a veure per aquí, això es una prova.
+Exercicis curs JS IT ACADEMY. Curs completat.
